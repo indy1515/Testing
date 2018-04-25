@@ -1,50 +1,38 @@
 [
     {
-        "sys_id": 1,
-        "lyr_id": 1,
         "nod_id": 1,
-        "name": "Node 1, Layer 1, System 1",
-        "lon": 100.53561,
-        "lat": 13.74469
+        "name": "Node 1, Layer 3, System 1",
+        "lon": 100.53511,
+        "lat": 13.75945
     },
     {
-        "sys_id": 1,
-        "lyr_id": 1,
         "nod_id": 2,
-        "name": "Node 2, Layer 1, System 1",
-        "lon": 100.53427,
-        "lat": 13.74548
+        "name": "Node 2, Layer 3, System 1",
+        "lon": 100.53647,
+        "lat": 13.75729
     },
     {
-        "sys_id": 1,
-        "lyr_id": 1,
         "nod_id": 3,
-        "name": "Node 3, Layer 1, System 1",
-        "lon": 100.53302,
-        "lat": 13.74588
+        "name": "Node 3, Layer 3, System 1",
+        "lon": 100.54161,
+        "lat": 13.75608
     },
     {
-        "sys_id": 1,
-        "lyr_id": 1,
         "nod_id": 4,
-        "name": "Node 4, Layer 1, System 1",
-        "lon": 100.53561,
-        "lat": 13.74469
+        "name": "Node 4, Layer 3, System 1",
+        "lon": 100.54440,
+        "lat": 13.75432
     },
     {
-        "sys_id": 1,
-        "lyr_id": 1,
         "nod_id": 5,
-        "name": "Node 5, Layer 1, System 1",
-        "lon": 100.53047,
-        "lat": 13.74358
+        "name": "Node 5, Layer 3, System 1",
+        "lon": 100.54620,
+        "lat": 13.75382
     },
     {
-        "sys_id": 1,
-        "lyr_id": 2,
         "nod_id": 1,
-        "name": "Node 6, Layer 1, System 1",
-        "lon": 100.54035,
-        "lat": 13.74586
+        "name": "Node 6, Layer 3, System 1",
+        "lon": 100.55195,
+        "lat": 13.75237
     }
 ]
